@@ -1,2 +1,2 @@
 # Chiron.B
-Malware.
+Remake of Chiron as I lost the source code
